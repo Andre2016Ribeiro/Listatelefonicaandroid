@@ -11,15 +11,16 @@
         android:text="@string/app_text"
     />
     <Spinner
-         android:layout_width="fill_parent"  
-  android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_height="50.3dp"
         android:id="@+id/spinner1"
         android:layout_marginTop="25.1dp"
         android:layout_marginRight="0.0dp" />
     <Spinner
         android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+        android:layout_height="57.5dp"
         android:id="@+id/spinner2"
         android:layout_marginTop="93.3dp"
-        android:layout_marginLeft="0.0dp" />
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginBottom="29.7dp" />
 </RelativeLayout>
